@@ -1,3 +1,4 @@
+import pybuilder.plugins.python.sphinx_plugin
 from pybuilder.core import init, use_plugin
 import os
 
