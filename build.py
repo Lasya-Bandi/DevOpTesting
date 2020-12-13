@@ -1,6 +1,4 @@
-use_plugin("pypi:pybuilder_external_plugin_demo")
-from pybuilder.core import init, use_plugin
-import os
+
 
 use_plugin("python.core")
 use_plugin("python.unittest")
