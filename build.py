@@ -1,4 +1,4 @@
-import init, use_plugin
+from pybuilder.core import init, use_plugin
 import os
 
 use_plugin("python.core")
